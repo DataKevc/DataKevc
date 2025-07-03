@@ -1,5 +1,5 @@
-- Hi I’m @DataKevc, an active data analyst
-- Looking to build applications and designs to help people understand the world better, data is my laguage of choice. 
+- Hi I’m @DataKevc, an active data manager
+- Looking to build applications and designs to help people understand the world better.
 - Currently using Excel, SQL, Python, and Tableau as my main tools
 
 <!---
